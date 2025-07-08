@@ -18,7 +18,14 @@ Meticulous, resourceful, and endlessly curious—I'm a developer who thrives on 
 
 ## ⚙️ Vectra
 
-A custom programming language with its own bytecode format (.vbc), virtual machine, and compiler infrastructure. Repos: vectra-cli, vectra-compiler, vectra-ast, vectra-bytecode, vectra-vm
+A custom programming language with its own bytecode format (.vbc), virtual machine, and compiler infrastructure. 
+
+Repos:
+- vectra-cli
+- vectra-compiler
+- vectra-ast
+- vectra-bytecode
+- vectra-vm
 
 ## 🖥️ Vectrionyx
 
